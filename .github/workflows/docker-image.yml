@@ -34,4 +34,4 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: jawad151/java-maven-app-ci-cd_:latest
+        tags: jawad151/java-maven-app-ci-cd:latest
